@@ -1,1 +1,1 @@
-print('I am main file daed june7')
+print('I am main file dated june7')
